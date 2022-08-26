@@ -1,5 +1,5 @@
-# ALX-Data
-This is my ALX-Udacity Data Analytics repository
+# ALX- Movie Data Analysis
+
 The dataset was somewhat comprehensive in terms of the different features it had. When I further read about what goes into ensuring the success of a movie, I realized that perhaps some data points could have been captured or included in this dataset. In the dataset, the following columns were listed:
 
 id
